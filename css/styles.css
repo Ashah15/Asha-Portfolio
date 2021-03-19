@@ -190,6 +190,14 @@ section{
     max-width:50px;
 }
 
+.heading {
+    margin-top: 1em;
+    font-size: 24px;
+    font-weight: bold;
+    color: #626262;
+    text-align: center;
+}
+
 .profile-pic{
     border-radius:50%;
     max-width:300px;
@@ -203,6 +211,49 @@ section{
 
 .p-all {
   margin-right: 20px;
+}
+
+.projects {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 3em;
+}
+
+.one {
+  background: url(images/c.png) no-repeat;
+  background-size: cover;
+  height: 250px;
+  width: 400px;
+  opacity: 0.8;
+  border-radius: 20px;
+}
+
+.one-one {
+  background: url(images/d.png) no-repeat;
+  background-size: cover;
+  height: 250px;
+  width: 400px;
+  opacity: 0.8;
+  border-radius: 20px;
+}
+
+.two-two {
+  background: url(images/e.png) no-repeat;
+  background-size: cover;
+  height: 250px;
+  width: 400px;
+  opacity: 0.8;
+  border-radius: 20px;
+}
+
+.three-three {
+  background: url(images/f.png) no-repeat;
+  background-size: cover;
+  height: 250px;
+  width: 400px;
+  opacity: 0.8;
+  border-radius: 20px;
 }
 
 .social-icons i{
