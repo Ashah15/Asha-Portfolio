@@ -2,7 +2,7 @@
 
 > This is my personal portfolio where I showcase all the projects done and skills gained in my software development journey since the begining to now.
 
-![screenshot](./app_screenshot.png)
+![portfolio](https://user-images.githubusercontent.com/25789605/111847616-38cc4c00-891a-11eb-86da-dd04eacd10d6.png)
 
 
 ## Built With
